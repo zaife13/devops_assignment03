@@ -1,5 +1,5 @@
 const webdriver = require("selenium-webdriver");
-const chrome = require("selenium-webdriver/chrome");
+const firefox = require("selenium-webdriver/firefox");
 const { By } = require("selenium-webdriver");
 
 const test = async () => {
